@@ -103,7 +103,7 @@ magicbricks-analytics/
 
 ```bash
 # Clone the repository
-git clone https://github.com/viswanath-0/magicbricks-analytics.git
+git clone https://github.com/swathijyothi3/magicbricks-analytics.git
 cd magicbricks-analytics
 
 # Create and activate virtual environment
@@ -147,8 +147,3 @@ This project is deployed on Streamlit Cloud.
 - Distribution fitting: Shapiro-Wilk test, Kolmogorov-Smirnov test
 - Hypothesis testing: independent t-test, one-way ANOVA, Chi-Square test
 
----
-
-## Author
-
-GitHub: [viswanath-0](https://github.com/viswanath-0)
