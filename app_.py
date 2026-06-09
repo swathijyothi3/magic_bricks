@@ -1530,21 +1530,6 @@ def page_takeaways():
           <div style='color:#d4f0e8 !important;font-size:.84em;line-height:1.65;'>{a}</div>
         </div>""", unsafe_allow_html=True)
 
-    sec("🔗 Project Links")
-    st.markdown("""
-    <div style='display:flex;gap:16px;flex-wrap:wrap;margin-top:12px;'>
-      <a href='https://github.com/viswanath-0' target='_blank'
-         style='background:linear-gradient(135deg,rgba(0,212,255,.2),rgba(191,0,255,.2));
-                border:1px solid rgba(0,212,255,.4);border-radius:12px;
-                padding:12px 22px;color:#a0e8ff !important;text-decoration:none;
-                font-weight:700;font-size:.95em;
-                box-shadow:0 0 20px rgba(0,212,255,.15);'>
-        🐙 GitHub: viswanath-0
-      </a>
-      <span class='pill' style='padding:10px 18px;font-size:.88em;'>🏠 Airbnb Predictor: streamlit.app</span>
-      <span class='pill' style='padding:10px 18px;font-size:.88em;'>💬 Sentiment Analyser: streamlit.app</span>
-    </div>""", unsafe_allow_html=True)
-
 
 # ════════════════════════════════════════════════════════════
 # NAVIGATION + MAIN
